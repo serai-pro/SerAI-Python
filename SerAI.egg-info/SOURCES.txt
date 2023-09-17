@@ -1,0 +1,8 @@
+setup.py
+SerAI/__init__.py
+SerAI/thunderbird.py
+SerAI.egg-info/PKG-INFO
+SerAI.egg-info/SOURCES.txt
+SerAI.egg-info/dependency_links.txt
+SerAI.egg-info/requires.txt
+SerAI.egg-info/top_level.txt
