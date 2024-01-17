@@ -1,10 +1,10 @@
 import requests
-
-THUNDERBIRD_URL = "https://serai.pro/thunderbird" #modified 18.09.2023 reason: removed ".php"
+#modified 18.09.2023 reason: removed ".php"
+#modified 17.01.2024 reason: added TDS
+THUNDERBIRD_URL = "https://panel.serai.pro/TDS" 
 
 API_KEY = None
 
-#THIS IS USED ONLY IF THERE'S ANY ERROR WITH THE CODE HIMSELF (CAN BE REMOVED)
 NOT_ALLOWED = ["Fuck", "Nigga", "Faggot", "nigga", "fuck", "faggot", "kill yourself", "kill", "kys", "kms"] #modified 18.09.2023 reason: a simpler word
 
 def setup(key):
